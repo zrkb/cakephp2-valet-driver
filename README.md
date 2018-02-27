@@ -6,7 +6,7 @@
 
 ## Installation
 
-Copy the file `[CakePHP2ValetDriver.php](CakePHP2ValetDriver.php)` to your Valet Drivers folder located at `~/.valet/Drivers`.
+Copy the file [`CakePHP2ValetDriver.php`](CakePHP2ValetDriver.php) to your Valet Drivers folder located at `~/.valet/Drivers`.
 
 Done! 🍻
 
